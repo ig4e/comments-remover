@@ -1,0 +1,15 @@
+{
+  "name": "comments-remover",
+  "version": "1.0.0",
+  "description": "Remove comments from source files (CLI)",
+  "main": "lib/parser.js",
+  "bin": {
+    "remove-comments": "bin/remove-comments.js"
+  },
+  "keywords": ["comments","remove","cli"],
+  "author": "",
+  "license": "MIT",
+  "engines": {
+    "node": ">=14"
+  }
+}
